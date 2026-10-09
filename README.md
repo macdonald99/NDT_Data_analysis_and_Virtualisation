@@ -4,7 +4,7 @@
 **Module:** Data Analysis And Visualization
 **Programme:** Diploma in ICT
 **Examiner:** Melvin Kisten
-**Student:** Macdonald Mako — 202441615
+**Student:** Macdonald Mako 
 **VIBE CODED
 
 ---
